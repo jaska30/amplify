@@ -9,7 +9,7 @@ export default class Korona extends Component {
                 
                     <p>id: {this.props.tauti}</p>
                     <p>päivä: {moment(this.props.paiva).format('DD/MM/YYYY')}</p>
-                    <p>Healcare district: {this.props.healthCareDistrict}</p>
+                    <p>Healthcare district: {this.props.healthCareDistrict}</p>
                     <p>Infection source country: {this.props.infectionSourceCountry}</p>
                     <p>Infection source: {this.props.infectionSource}</p>
                 
