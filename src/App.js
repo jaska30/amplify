@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       
-      <h1 style={{color: "white", fontSize:"80px"}}>KORONA</h1>
+      <h1 style={{color: "darkred", fontSize:"80px"}}>KORONA</h1>
       <StartPage/>
     </div>
   );
